@@ -1,0 +1,3 @@
+D:\Учеба\3 семестр\Структуры и алгоритмы обработки данных\проги\ЛБ-4\Debug\ЛБ-4.exe
+D:\Учеба\3 семестр\Структуры и алгоритмы обработки данных\проги\ЛБ-4\Debug\ЛБ-4.pdb
+D:\Works_GuitHub_C++\Data-structures-and-algorithms\programs\Lb-4\Debug\ЛБ-4.exe

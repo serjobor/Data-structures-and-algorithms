@@ -1,0 +1,4 @@
+﻿  ЛБ-4.cpp
+D:\Works_GuitHub_C++\Data-structures-and-algorithms\programs\Lb-4\ЛБ-4.cpp(165,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Works_GuitHub_C++\Data-structures-and-algorithms\programs\Lb-4\ЛБ-4.cpp(195,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ЛБ-4.vcxproj -> D:\Works_GuitHub_C++\Data-structures-and-algorithms\programs\Lb-4\Debug\ЛБ-4.exe
